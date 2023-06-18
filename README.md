@@ -8,4 +8,4 @@ Dывод содержащий информацию о каждом сетево
 Команда lsns используется для отображения информации о пространствах имен (namespaces) на системе. 
 
 
-![Image alt](https://github.com/Anatolii76V/Containerization/blob/main/Lesson1/screen1.png)
+![screen1](https://github.com/Anatolii76V/Containerization/blob/main/Lesson1/screen1.png)
