@@ -9,3 +9,9 @@ Dывод содержащий информацию о каждом сетево
 
 
 ![screen1](https://github.com/Anatolii76V/Containerization/blob/main/Lesson1/screen1.png)
+
+
+![screen2](https://github.com/Anatolii76V/Containerization/blob/main/Lesson1/screen2.png)
+
+
+![screen3](https://github.com/Anatolii76V/Containerization/blob/main/Lesson1/screen3.png)
