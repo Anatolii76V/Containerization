@@ -1,3 +1,20 @@
+Докер калькулятор.
+
+Создайте новую папку для проекта и перейдите в неё:
+mkdir calculator-app
+cd calculator-app
+
+Создаём Dockerfile:
+touch Dockerfile
+nano Dockerfile
+
+Команда для сборки образа:
+sudo docker build -t calculator-app .
+
+Команда для запуска контейнера:
+docker run -it calculator-app
+
+
 ![screen1](https://github.com/Anatolii76V/Containerization/blob/main/lesson4/screen1.png)
 
 
