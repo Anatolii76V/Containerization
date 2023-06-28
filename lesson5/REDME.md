@@ -21,6 +21,9 @@
 ![screen7](https://github.com/Anatolii76V/Containerization/blob/main/lesson5/screen7.png)
 
 
+Клонирование: ubuntu, node1, node2.
+
+
 ![screen8](https://github.com/Anatolii76V/Containerization/blob/main/lesson5/screen8.png)
 
 
@@ -28,6 +31,9 @@
 
 
 ![screen10](https://github.com/Anatolii76V/Containerization/blob/main/lesson5/screen10.png)
+
+
+На трёх следующих скринах, разные адреса.
 
 
 ![screen11](https://github.com/Anatolii76V/Containerization/blob/main/lesson5/screen11.png)
